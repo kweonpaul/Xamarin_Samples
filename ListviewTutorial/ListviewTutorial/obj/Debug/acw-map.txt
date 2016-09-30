@@ -1,0 +1,4 @@
+ListviewTutorial.MainActivity, ListviewTutorial;md5bc59a5e6c2613f18ca021240e27c56e2.MainActivity
+ListviewTutorial.MainActivity, ListviewTutorial, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bc59a5e6c2613f18ca021240e27c56e2.MainActivity
+ListviewTutorial.MainActivity;md5bc59a5e6c2613f18ca021240e27c56e2.MainActivity
+listviewtutorial.MainActivity;md5bc59a5e6c2613f18ca021240e27c56e2.MainActivity

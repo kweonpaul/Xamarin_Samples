@@ -39,3 +39,4 @@ C:\Users\kweon\Desktop\ListviewTutorial\ListviewTutorial\obj\Debug\ListviewTutor
 C:\Users\kweon\Documents\Xamarin\From Youtube\ListviewTutorial\ListviewTutorial\obj\Debug\ListviewTutorial.csprojResolveAssemblyReference.cache
 C:\Users\kweon\Documents\Xamarin\From Youtube\ListviewTutorial\ListviewTutorial\obj\Debug\ListviewTutorial.dll
 C:\Users\kweon\Documents\Xamarin\From Youtube\ListviewTutorial\ListviewTutorial\obj\Debug\ListviewTutorial.pdb
+C:\Users\kweon\Documents\Workspace\Xamarin\Xamarin_Samples\ListviewTutorial\ListviewTutorial\obj\Debug\ListviewTutorial.csprojResolveAssemblyReference.cache

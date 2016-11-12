@@ -13,7 +13,7 @@ namespace Phoneword
     public class MainActivity : Activity
     {
 
-        int count = 1;
+        //int count = 1;
         static readonly List<string> phoneNumbers = new List<string>();
 
 

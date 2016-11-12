@@ -1,0 +1,4 @@
+TextMemo.MainActivity, TextMemo;md50c78f68642323370006ca9c1255fc712.MainActivity
+TextMemo.MainActivity, TextMemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50c78f68642323370006ca9c1255fc712.MainActivity
+TextMemo.MainActivity;md50c78f68642323370006ca9c1255fc712.MainActivity
+textmemo.MainActivity;md50c78f68642323370006ca9c1255fc712.MainActivity

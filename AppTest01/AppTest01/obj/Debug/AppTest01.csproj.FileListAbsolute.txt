@@ -1,0 +1,15 @@
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\bin\Debug\AppTest01.dll
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\bin\Debug\AppTest01.pdb
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\bin\Debug\AppTest01.AppTest01.apk
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\bin\Debug\AppTest01.AppTest01-Signed.apk
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\obj\Debug\AppTest01.csprojResolveAssemblyReference.cache
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\obj\Debug\AppTest01.dll
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\obj\Debug\AppTest01.pdb
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\obj\Debug\android\bin\AppTest01.AppTest01.apk
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\obj\Debug\res\layout\main.xml
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\obj\Debug\res\values\strings.xml
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\obj\Debug\res\drawable\icon.png
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\obj\Debug\R.cs.flag
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\obj\Debug\uploadflags.txt
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\obj\Debug\AppTest01.dll.mdb
+C:\Users\kweon\documents\visual studio 2015\Projects\AppTest01\AppTest01\bin\Debug\AppTest01.dll.mdb
